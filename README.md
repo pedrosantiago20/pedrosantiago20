@@ -1,4 +1,4 @@
-### Olá, me chamo Pedro Santiago! 👋
+### Hi my name's Pedro Santiago! 👋
 
 
 #### Technologies:
